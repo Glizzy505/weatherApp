@@ -1,6 +1,6 @@
 ## Weather App
 
--- This is a simple Weather App built using Python and CustomTkinter. It fetches real-time weather data using the OpenWeatherMap API and displays details such as temperature, weather description, humidity, and wind speed, along with an appropriate weather icon.
+This is a simple Weather App built using Python and CustomTkinter. It fetches real-time weather data using the OpenWeatherMap API and displays details such as temperature, weather description, humidity, and wind speed, along with an appropriate weather icon.
 
 # Features
 
