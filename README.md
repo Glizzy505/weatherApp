@@ -1,8 +1,8 @@
-Weather App
+**Weather App**
 
 This is a simple Weather App built using Python and CustomTkinter. It fetches real-time weather data using the OpenWeatherMap API and displays details such as temperature, weather description, humidity, and wind speed, along with an appropriate weather icon.
 
-Features
+**Features**
 
 Fetches live weather data from OpenWeatherMap API.
 
@@ -14,7 +14,7 @@ Simple and interactive GUI built with CustomTkinter.
 
 Displays weather icons dynamically.
 
-Installation
+**Installation**
 
 Prerequisites
 
@@ -26,7 +26,7 @@ Run the following command to install the dependencies:
 
 pip install requests customtkinter pillow
 
-Usage
+**Usage**
 
 Clone this repository or download the project files.
 
@@ -40,15 +40,11 @@ python weather_app.py
 
 Enter the city name and click "Get Weather" to fetch weather data.
 
-Contributing
-
-If you'd like to contribute, feel free to fork the repository and submit a pull request.
-
-License
+**License**
 
 This project is licensed under the MIT License.
 
-Author
+**Author**
 
 Glizzy
 
