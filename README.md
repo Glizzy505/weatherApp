@@ -30,7 +30,7 @@ This is a simple Weather App built using Python and CustomTkinter. It fetches re
 
 - Clone this repository or download the project files.
 
-- Get an API key from OpenWeatherMap.
+- Get an API key from (OpenWeatherMap)[https://openweathermap.org/api].
 
 - Replace the API_KEY variable in weather_app.py with your API key.
 
