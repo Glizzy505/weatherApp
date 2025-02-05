@@ -1,50 +1,50 @@
-**Weather App**
+## Weather App
 
-This is a simple Weather App built using Python and CustomTkinter. It fetches real-time weather data using the OpenWeatherMap API and displays details such as temperature, weather description, humidity, and wind speed, along with an appropriate weather icon.
+-- This is a simple Weather App built using Python and CustomTkinter. It fetches real-time weather data using the OpenWeatherMap API and displays details such as temperature, weather description, humidity, and wind speed, along with an appropriate weather icon.
 
-**Features**
+# Features
 
-Fetches live weather data from OpenWeatherMap API.
+- Fetches live weather data from OpenWeatherMap API.
 
-Displays temperature, weather description, humidity, and wind speed.
+- Displays temperature, weather description, humidity, and wind speed.
 
-Uses emojis to enhance the weather description.
+- Uses emojis to enhance the weather description.
 
-Simple and interactive GUI built with CustomTkinter.
+- Simple and interactive GUI built with CustomTkinter.
 
-Displays weather icons dynamically.
+- Displays weather icons dynamically.
 
-**Installation**
+# Installation
 
-Prerequisites
+- Prerequisites
 
-Make sure you have Python installed (version 3.7 or later). You can download it from python.org.
+- Make sure you have Python installed (version 3.7 or later). You can download it from python.org.
 
-Install Required Packages
+- Install Required Packages
 
-Run the following command to install the dependencies:
+- Run the following command to install the dependencies:
 
-pip install requests customtkinter pillow
+- pip install requests customtkinter pillow
 
-**Usage**
+# Usage
 
-Clone this repository or download the project files.
+- Clone this repository or download the project files.
 
-Get an API key from OpenWeatherMap.
+- Get an API key from OpenWeatherMap.
 
-Replace the API_KEY variable in weather_app.py with your API key.
+- Replace the API_KEY variable in weather_app.py with your API key.
 
-Run the application using:
+- Run the application using:
 
-python weather_app.py
+- python weather_app.py
 
-Enter the city name and click "Get Weather" to fetch weather data.
+- Enter the city name and click "Get Weather" to fetch weather data.
 
-**License**
+# License
 
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
-**Author**
+# Author
 
-Glizzy
+- Glizzy
 
